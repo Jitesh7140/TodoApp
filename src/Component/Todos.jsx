@@ -12,7 +12,7 @@ function Todos(props) {
         Your Task 
       </h1>
 
-      {/* {console.log(props)} */}
+      {/* {console.log(props)} */} 
       {/* <h1>{props.todos}</h1> */}
 
       <Addtodo todo={props.setto}/>
